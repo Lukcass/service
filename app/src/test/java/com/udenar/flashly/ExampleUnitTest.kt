@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.udenar.flashly
 
 import org.junit.Test
 
